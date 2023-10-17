@@ -1,0 +1,15 @@
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\bin\Debug\net6.0\GitHelloWorld.exe
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\bin\Debug\net6.0\GitHelloWorld.deps.json
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\bin\Debug\net6.0\GitHelloWorld.runtimeconfig.json
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\bin\Debug\net6.0\GitHelloWorld.dll
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\bin\Debug\net6.0\GitHelloWorld.pdb
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.csproj.AssemblyReference.cache
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.AssemblyInfoInputs.cache
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.AssemblyInfo.cs
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.csproj.CoreCompileInputs.cache
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.dll
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\refint\GitHelloWorld.dll
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.pdb
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\GitHelloWorld.genruntimeconfig.cache
+C:\0_Git\GitExamples\VSGitHelloWorld\GitHelloWorld\obj\Debug\net6.0\ref\GitHelloWorld.dll
